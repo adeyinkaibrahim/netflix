@@ -1,0 +1,111 @@
+body{
+    margin: 0px;
+    padding:0px;
+    background:linear-gradient(to right,skyblue,#5568bb);
+    border: 2px solid brown; 
+    height: 100vh;
+    justify-content: center;
+    
+    display: flex;
+       
+}
+.parent{
+    background-color: white;
+    border: 2px solid red;
+    width: 50%;
+    margin: auto;
+
+    margin-left: auto;
+    margin-right: auto;
+    border-radius: 10px;
+    align-items: center;
+    text-align: center;
+}
+
+.span{
+    border: 2px solid #1fa8ec;
+    padding: 20px;
+    border-radius: 50%;
+
+}
+
+
+.first{
+    border: 2px solid yellowgreen;
+    border-bottom-left-radius: 10px;
+    border-top-left-radius: 10px;
+    margin:auto; 
+    text-align: center;
+
+}
+
+.media{
+    margin-top: 40px;
+    margin-bottom: 40px;
+
+}
+.input{
+    width: 300px;
+    height: 50px;
+    border: 2px solid #eae2e2;
+    background-color: #eeeeee;
+    margin-top: 10px;
+    margin-bottom:10px ;
+}
+a{
+    text-decoration: none;
+    color: #1fc8ef;
+    font-size: large;
+
+}
+.login-card-header{
+    font-size: 20px;
+    font-family: cursive;
+    padding-top: 10px;
+    
+}
+.logo{
+    margin-bottom: 5px;
+}
+
+.face{
+    border: 1px solid #1fc8ef;
+    border-radius: 50%;
+    color: #1fc8ef;
+    padding: 5px;
+}
+
+.G{
+    border: 1px solid #1fc8ef;
+    border-radius: 50%;
+    color: #1fc8ef;
+    padding: 5px;
+
+}
+
+.Link{
+    border: 1px solid #1fc8ef;
+    border-radius: 50%;
+    color: #1fc8ef;
+    padding: 5px;
+
+}
+input{
+    border-radius: 5px;
+    height: 30px;
+    width: 250px;
+    padding: 5px;
+    background-color: rgb(238,227,227);
+    border: 2px solid rgb(238,227,227);
+    margin-top: 10px;
+    margin-bottom: 2px;
+}
+.sub{
+    border-radius: 5px;
+    height: 30px;
+    width: 180px;
+    background-color: rgb(16,142,192);
+    color:white
+    
+
+}

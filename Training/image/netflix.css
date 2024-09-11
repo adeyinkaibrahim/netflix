@@ -1,0 +1,92 @@
+body{
+    background-color: black;
+    margin: 0px;
+    padding: 0px;
+}
+nav{
+    background-image: linear-gradient(to top,rgba(0,0,0,0.8)0) rgba(0,0,0,0)60%,rgba(0,0,0,0.8)1;
+    margin-bottom: 10px;
+    background-size: auto;
+    background-attachment: fixed;
+    height: 100vh;
+    background-position: center;
+}
+.section1{
+    
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    padding: 20px 150px;
+
+}
+.button{
+
+    border-style: solid;
+    transition: inherit;
+    background-color: red;
+    border-color: red;
+
+    
+    align-content: center;
+    border-radius: 12px;
+    width: 65px;
+    height: 32px;
+    justify-items: center;
+}
+.sign{
+    text-decoration: none;
+    box-sizing: border-box;
+    color: white;
+    padding-left: 8px;
+}
+.section2{
+    background-image: url("../image/NG-en-20240805-POP_SIGNUP_TWO_WEEKS-perspective_WEB_1bda9ac8-6081-44af-8bb3-eb7bf153b606_medium.jpg");
+    color: white;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding-top: 190px;
+    margin-top: 0%;
+
+}
+.Heading{
+    font-size: 49px;
+    font-weight: 700;
+    font-family: Arial, Helvetica, sans-serif;
+    margin: 0;
+
+}
+.apesin{
+    margin: 0;
+    font-size: 25px;   
+}
+.window{
+    font-size: 25px;
+}
+.input{
+    background: rgba(255,255,255,0);
+    width: 285px;
+    height: 39px;
+    color: rgba(255,255,255,0.1);
+    border-radius: 7px;
+
+}
+.branch3{
+    display: flex;
+    justify-content: center;
+    column-gap: 14px;
+}
+.getstarted{
+    color: white;
+    border-style: solid;
+    background: red;
+    width: 175px;
+    font-weight: 900;
+    font-size: 20px;
+    border-radius: 7px;
+    border-color: red;
+}
+.section3{
+color: white;
+display: flex;
+}
